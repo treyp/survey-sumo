@@ -1,6 +1,7 @@
 # Project
 public/builds/*.js
 public/builds/*.map
+config.js
 
 # Node
 logs
