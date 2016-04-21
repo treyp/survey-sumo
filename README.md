@@ -18,7 +18,7 @@ Make sure you have the following installed:
 
 1. Check out this repo using git
 2. Create a database (and user for it, if you don't have one) in your MySQL instance. For example:
- 
+
     ```sql
     CREATE USER 'surveysumo'@'localhost' IDENTIFIED BY 'slenderman';
     GRANT ALL PRIVILEGES ON *.* TO 'surveysumo'@'localhost';
@@ -26,7 +26,7 @@ Make sure you have the following installed:
     ```
 
 3. `npm install`
-4. Edit the configuration file `./config.js` to reflect your environment. Changes to this file are `.gitignore`d. The environment type can be set later using the environmental variable `NODE_ENV`, which supports the values `production` and `development` (see the Running section below).
+4. `cp config.js.sample config.js` - Copy `./config.js.sample` to `./config.js` (this is done so your changes are `.gitignore`d). Edit the file to reflect your environment. In addition to these settings, the environment type can be set later using the environmental variable `NODE_ENV`, which supports the values `production` and `development` (see the Running section below).
 5. `npm run setup` (If you want to load some sample data, use `npm run sample` instead.)
 
 ## Running
