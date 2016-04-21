@@ -36,9 +36,10 @@ db.sync({ force: true }).then(function () {
   var promises = [];
   dbResponses.slice(1, 1 + questions.length).filter(function (question) {
     return question.published;
-  }).forEach(function (question) {
+  }).forEach(function (question, index) {
     var responseCount = Math.floor(Math.random() * (GUESTS + 1));
-    if (question.id === 1) {
+    if (index === 0) {
+      // Give the maximum number of responses for the first sample question
       responseCount = GUESTS;
     }
     if (responseCount === 0) {
