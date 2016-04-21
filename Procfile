@@ -1,0 +1,1 @@
+web: cp -n config.js.sample-production config.js || npm start

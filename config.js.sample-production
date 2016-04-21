@@ -1,0 +1,16 @@
+// Default login (only used when running `npm run setup` or `npm run sample`)
+exports.DEFAULT_EMAIL = process.env.DEFAULT_EMAIL || 'surveysumo@example.com';
+exports.DEFAULT_PASSWORD = process.env.DEFAULT_PASSWORD || 'slenderman';
+
+// Database settings
+exports.DB_URL = process.env.CLEARDB_DATABASE_URL ||
+  'mysql://surveysumo:slenderman@localhost:3306/surveysumo';
+
+// Cookie settings
+exports.COOKIE_SECRET = process.env.COOKIE_SECRET || 'slenderman';
+
+// Authentication settings
+exports.SALT_ROUNDS = process.env.SALT_ROUNDS || 10;
+
+// Web app settings
+exports.PORT = process.env.PORT || 3000;

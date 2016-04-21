@@ -34,6 +34,7 @@ Make sure you have the following installed:
 In production:
 
 * `NODE_ENV=production npm start`
+* A Procfile is also included for hosting with Heroku. You'll need to set up the environmental variables ("config vars" in your Heroku app settings).
 
 During development:
 

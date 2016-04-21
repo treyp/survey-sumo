@@ -4,7 +4,7 @@ exports.DEFAULT_PASSWORD = 'slenderman';
 
 // Database settings
 exports.DB_DIALECT = 'mysql';
-exports.DB_USERNAME = 'sumo';
+exports.DB_USERNAME = 'surveysumo';
 exports.DB_PASSWORD = 'slenderman';
 exports.DB_HOST = 'localhost';
 exports.DB_PORT = '3306';
