@@ -1,0 +1,55 @@
+html {
+    background: #f9f9f9;
+    font: 16px/24px 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+a {
+    cursor: pointer;
+}
+h1 {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: normal;
+    border-bottom: 1px solid #eee;
+    margin: 0 0 12px;
+}
+
+.page {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 960px;
+}
+.paper {
+    padding: 24px;
+    margin: 24px 12px;
+}
+
+.loading {
+    text-align: center;
+}
+
+.done,
+.none {
+    padding: 24px;
+    margin: 96px 12px;
+    text-align: center;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.answer-choice {
+    padding: 12px 0;
+}
+
+.previously-answered {
+    padding: 0;
+}
+.previous-answer {
+    display: block;
+    padding: 12px 24px;
+}

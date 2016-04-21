@@ -1,0 +1,46 @@
+# Project
+public/builds/*.js
+public/builds/*.map
+
+# Node
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+.grunt
+.lock-wscript
+build/Release
+node_modules
+jspm_packages
+.npm
+.node_repl_history
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+Session.vim
+.netrwhist
+*~
+tags

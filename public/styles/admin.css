@@ -1,0 +1,249 @@
+html {
+    background: #333;
+    font: 16px/24px 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    margin: 0 0 12px;
+}
+label, a {
+    cursor: pointer;
+}
+
+.main-nav {
+    background: #555;
+    color: #fff;
+    padding: 12px .5em;
+    overflow: hidden;
+}
+.main-nav .sign-in {
+    float: right;
+    color: #ccc;
+}
+.main-nav .current-user {
+    float: right;
+    margin-right: 1em;
+    max-width: 10em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+@media screen and (max-width: 425px) {
+    .main-nav .sign-in,
+    .main-nav .current-user {
+        font-size: 12px;
+    }
+    .main-nav .title {
+        clear: both;
+        text-align: center;
+        padding-top: 12px;
+    }
+}
+.admin-content {
+    margin: 0 auto 24px;
+    max-width: 960px;
+}
+
+.sign-in-paper {
+    background-color: #fff;
+    padding: 12px;
+    border-radius: 3px;
+    margin: 24px auto;
+}
+.sign-in-error {
+    border: 1px solid #F44336;
+    margin-bottom: 24px;
+    background: #FFEBEE;
+    padding: 12px;
+}
+.sign-in-paper label {
+    display: block;
+    overflow: hidden;
+}
+.sign-in-paper input[type="text"],
+.sign-in-paper input[type="password"] {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border: 0;
+    background: transparent;
+    font: inherit;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 2px;
+}
+.sign-in-paper input[type="text"]:focus,
+.sign-in-paper input[type="password"]:focus {
+    border-bottom: 3px solid #333;
+    margin-bottom: 0;
+    outline: 0;
+}
+.sign-in-paper input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 6px 12px;
+    border: 0;
+    border-radius: 6px;
+    font: inherit;
+}
+
+.sign-in .row {
+    margin-bottom: 12px;
+}
+
+.loading {
+    text-align: center;
+}
+
+.delete {
+    float: right;
+    font-size: 24px;
+    line-height: 48px;
+    cursor: pointer;
+}
+.delete:hover {
+    color: red;
+}
+
+.questions {
+    list-style: none;
+    padding: 0;
+}
+.question {
+    margin-top: 12px;
+    padding-left: 12px;
+    border-left: 6px solid #ccc;
+}
+.question.published {
+    border-left: 6px solid #4caf50;
+}
+.question.unpublished {
+    border-left: 6px solid #FFEB3B;
+}
+.question > .delete {
+    line-height: 60px;
+}
+.question > .input-container {
+    display: block;
+    margin: 0 30px 0 0;
+}
+.question-stats {
+    font-size: 12px;
+}
+.question-stats .bullet {
+    padding: 0 .5em;
+}
+
+.answers {
+    list-style: none;
+    padding: 0;
+}
+.answer {
+    overflow: hidden;
+}
+@media screen and (max-width: 425px) {
+    .answer {
+        margin-bottom: 6px;
+    }
+    .answer:hover {
+        background: transparent;
+    }
+}
+.answer > .input-container {
+    float: left;
+    width: 50%;
+}
+.answer > .input-container > .padding {
+    padding-right: 12px;
+}
+@media screen and (max-width: 425px) {
+    .answer > .input-container {
+        margin-right: 30px;
+        float: none;
+        width: auto;
+    }
+    .answer > .input-container > .padding {
+        padding-right: 0;
+    }
+}
+.answer .viz {
+    display: block;
+    margin: 12px 30px 0 50%;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    background: #efefef;
+}
+@media screen and (max-width: 425px) {
+    .answer .viz {
+        margin-left: 0;
+        margin-top: 0;
+        height: 18px;
+        line-height: 18px;
+    }
+}
+.answer .viz.no-responses {
+    color: #ccc;
+    font-size: 12px;
+    text-align: center;
+}
+.answer .viz .bar {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #ccc;
+}
+.answer .viz .label {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: -12px;
+    padding: 0 .25em;
+}
+@media screen and (max-width: 425px) {
+    .answer .viz .label {
+        font-size: 12px;
+        margin-top: -9px;
+    }
+}
+
+.user {
+    margin-bottom: 12px;
+}
+.user .form {
+    margin: 0 30px 0 0;
+}
+.user .form .halves {
+    margin-right: 100px;
+    overflow: hidden;
+}
+.user .form .halves .half {
+    width: 50%;
+    float: left;
+}
+.user .form .halves .first-half .padding {
+    padding-right: 6px;
+}
+.user .form .halves .last-half .padding {
+    padding-left: 6px;
+}
+@media screen and (max-width: 425px) {
+    .user .form .halves {
+        margin-right: 0;
+    }
+    .user .form .halves .half {
+        width: auto;
+        float: none;
+    }
+    .user .form .halves .half .padding {
+        padding: 0;
+    }
+}

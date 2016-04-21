@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey Sumo: Admin</title>
+        <meta name="viewport" content="initial-scale=1" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,500" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="/css/admin.css" />
+    </head>
+    <body>
+        <nav class="main-nav"><span>Survey Sumo: Admin</span></nav>
+        <div class="admin-content sign-in-paper">
+            {error}
+            <h1>Sign In</h1>
+            <form action="/admin/login" method="post" class="sign-in">
+                <div class="row">
+                    <label>
+                        Email:
+                        <input type="text" name="username"/>
+                    </label>
+                </div>
+                <div class="row">
+                    <label>
+                        Password:
+                        <input type="password" name="password"/>
+                    </label>
+                </div>
+                <div class="row">
+                    <input type="submit" value="Submit"/>
+                </div>
+            </form>
+        </div>
+        <script type="text/javascript" src="/js/admin-bundle.js"></script>
+    </body>
+</html>

@@ -1,0 +1,313 @@
+[
+  {
+    "question": "How many tacos should one eat per meal?",
+    "published": true,
+    "Answers": [
+      { "answer": "Uno" },
+      { "answer": "Dos" },
+      { "answer": "Tres" },
+      { "answer": "Cuatro" },
+      { "answer": "Cinco" },
+      { "answer": "Seis" },
+      { "answer": "Siete" },
+      { "answer": "Ocho" },
+      { "answer": "Nueve" },
+      { "answer": "Diez" }
+    ]
+  },
+  {
+    "question": "How wonderful is the code here?",
+    "published": true,
+    "Answers": [
+      { "answer": "Excellent" },
+      { "answer": "Satisfactory" },
+      { "answer": "Needs Improvement" },
+      { "answer": "Unacceptable" }
+    ]
+  },
+  {
+    "question": "Should we publish this question?",
+    "published": false,
+    "Answers": [
+      { "answer": "No. Let’s get editor approval first." },
+      { "answer": "No. Publishing is for nerds." },
+      { "answer": "No. It’s not even a real question." },
+      { "answer": "Yes. Begrudgingly." }
+    ]
+  },
+  {
+    "question": "Alexander Hamilton’s economic program was designed primarily to",
+    "published": true,
+    "Answers": [
+      { "answer": "prepare the United States for war in the event Britain failed to vacate its posts in the Northwest" },
+      { "answer": "provide a platform for the fledgling Federalist Party’s 1792 campaign" },
+      { "answer": "establish the financial stability and credit of the new government" },
+      { "answer": "ensure northern dominance over the southern states in order to abolish slavery" },
+      { "answer": "win broad political support for his own candidacy for the presidency in 1792" }
+    ]
+  },
+  {
+    "question": "The development of the early nineteenth-century concept of “separate spheres” for the sexes encouraged all of the following EXCEPT",
+    "published": true,
+    "Answers": [
+      { "answer": "acceptance of a woman as the intellectual equal of a man" },
+      { "answer": "idealization of the “lady”" },
+      { "answer": "designation of the home as the appropriate place for a woman" },
+      { "answer": "emphasis on child care as a prime duty of a woman" },
+      { "answer": "establishment of a moral climate in the home" }
+    ]
+  },
+  {
+    "question": "The presidential election of 1840 is often considered the first “modern” election because",
+    "published": true,
+    "Answers": [
+      { "answer": "the slavery issue was first raised in this campaign" },
+      { "answer": "there was a very low turnout of eligible voters" },
+      { "answer": "voting patterns were similar to those later established in the 1890’s" },
+      { "answer": "both parties for the first time widely campaigned among all the eligible voters" },
+      { "answer": "a second era of good feeling had just come to a close, marking a new departure in politics" }
+    ]
+  },
+  {
+    "question": "The graph above refutes which of the following statements?",
+    "published": true,
+    "Answers": [
+      { "answer": "There were more Black people than White people in the antebellum South." },
+      { "answer": "Most southern families held slaves." },
+      { "answer": "Most southern families lived in rural areas." },
+      { "answer": "The southern population was much smaller than that of the North." },
+      { "answer": "Slaveholders were an extremely powerful group." }
+    ]
+  },
+  {
+    "question": "Frederick Jackson Turner’s “frontier hypothesis” focused on the importance of",
+    "published": true,
+    "Answers": [
+      { "answer": "the traditions of western European culture" },
+      { "answer": "the absence of a feudal aristocracy" },
+      { "answer": "Black people and Black slavery" },
+      { "answer": "the conflict between capitalists and workers" },
+      { "answer": "the existence of cheap unsettled land" }
+    ]
+  },
+  {
+    "question": "During the closing decades of the nineteenth century, farmers complained about all of the following EXCEPT",
+    "published": true,
+    "Answers": [
+      { "answer": "rising commodity prices" },
+      { "answer": "high interest charges" },
+      { "answer": "high freight rates" },
+      { "answer": "high storage costs" },
+      { "answer": "large middleman profits" }
+    ]
+  },
+  {
+    "question": "By the end of the seventeenth century, which of the following was true of women in New England?",
+    "published": true,
+    "Answers": [
+      { "answer": "They had begun to challenge their subordinate role in society." },
+      { "answer": "They were a majority in many church congregations." },
+      { "answer": "They voted in local elections." },
+      { "answer": "They frequently divorced their husbands." },
+      { "answer": "They could lead town meetings." }
+    ]
+  },
+  {
+    "question": "The First Great Awakening led to all of the following EXCEPT",
+    "published": true,
+    "Answers": [
+      { "answer": "separatism and secession from established churches" },
+      { "answer": "the renewed persecution of witches" },
+      { "answer": "the growth of institutions of higher learning" },
+      { "answer": "a flourishing of the missionary spirit" },
+      { "answer": "a greater appreciation for the emotional experiences of faith" }
+    ]
+  },
+  {
+    "question": "The Embargo Act of 1807 had which of the following effects on the United States?",
+    "published": true,
+    "Answers": [
+      { "answer": "It severely damaged American manufacturing." },
+      { "answer": "It enriched many cotton plantation owners." },
+      { "answer": "It disrupted American shipping." },
+      { "answer": "It was ruinous to subsistence farmers." },
+      { "answer": "It had little economic impact." }
+    ]
+  },
+  {
+    "question": "The National Road was constructed primarily for the purpose of",
+    "published": true,
+    "Answers": [
+      { "answer": "demarcating the southwestern boundary of the Louisiana Purchase" },
+      { "answer": "promoting trade and communication with the Old Northwest" },
+      { "answer": "opening the Southwest to ranchers" },
+      { "answer": "assisting the movement of settlers to the Oregon Country" },
+      { "answer": "relieving overpopulation and crowding in the Northeast" }
+    ]
+  },
+  {
+    "question": "The idea of Manifest Destiny included all of the following beliefs EXCEPT: ",
+    "published": true,
+    "Answers": [
+      { "answer": "Commerce and industry would decline as the nation expanded its agricultural base." },
+      { "answer": "The use of land for settled agriculture was preferable to its use for nomadic hunting." },
+      { "answer": "Westward expansion was both inevitable and beneficial." },
+      { "answer": "God had selected America as a chosen land and people." },
+      { "answer": "The ultimate extent of the American domain was to be from the tropics to the Arctic." }
+    ]
+  },
+  {
+    "question": "Which of the following statements about woman suffrage is true?",
+    "published": true,
+    "Answers": [
+      { "answer": "The six states of New England were the first to have complete woman suffrage." },
+      { "answer": "Woman suffrage was introduced into the South during Radical Reconstruction." },
+      { "answer": "No state granted woman suffrage before 1900." },
+      { "answer": "The only states with complete woman suffrage before 1900 were west of the Mississippi." },
+      { "answer": "California and Oregon were the first states to have complete woman suffrage." }
+    ]
+  },
+  {
+    "question": "The American Federation of Labor under the leadership of Samuel Gompers organized",
+    "published": true,
+    "Answers": [
+      { "answer": "skilled workers in craft unions in order to achieve economic gains" },
+      { "answer": "all industrial and agricultural workers in “one big union”" },
+      { "answer": "unskilled workers along industrial lines" },
+      { "answer": "workers and intellectuals into a labor party for political action" },
+      { "answer": "workers into a fraternal organization to provide unemployment and old-age benefits" }
+    ]
+  },
+  {
+    "question": "In the period 1890–1915, all of the following were generally true about African Americans EXCEPT:",
+    "published": true,
+    "Answers": [
+      { "answer": "Voting rights previously gained were denied through changes in state laws and constitutions." },
+      { "answer": "Back-to-Africa movements were widely popular among African Americans in urban areas." },
+      { "answer": "African American leaders disagreed on the principal strategy for attaining equal rights." },
+      { "answer": "Numerous African Americans were lynched, and mob attacks on African American individuals occurred in both the North and the South." },
+      { "answer": "African Americans from the rural South migrated to both southern and northern cities." }
+    ]
+  },
+  {
+    "question": "Which of the following is true of the forced relocation of Japanese Americans from the West Coast during the Second World War?",
+    "published": true,
+    "Answers": [
+      { "answer": "President Roosevelt claimed that military necessity justified the action." },
+      { "answer": "The Supreme Court immediately declared the action unconstitutional." },
+      { "answer": "The relocation was implemented according to congressional pro-visions for the internment of dissidents." },
+      { "answer": "The Japanese Americans received the same treatment as that accorded German Americans and Italian Americans." },
+      { "answer": "Few of those relocated were actually United States citizens." }
+    ]
+  },
+  {
+    "question": "Which of the following was an immediate consequence of the Bay of Pigs incident?",
+    "published": true,
+    "Answers": [
+      { "answer": "Congress demanded United States withdrawal from the Panama Canal Zone." },
+      { "answer": "The Soviet Union sent missiles to Cuba." },
+      { "answer": "Americans began to view nuclear power plants as dangerous." },
+      { "answer": "The United States ended its military occupation of Japan." },
+      { "answer": "China entered the Korean War." }
+    ]
+  },
+  {
+    "question": "The high inflation rates of the late 1960’s and early 1970’s were primarily the result of",
+    "published": true,
+    "Answers": [
+      { "answer": "major state and federal tax increases" },
+      { "answer": "increased investment in major industries" },
+      { "answer": "spending on social-welfare programs and the Vietnam War" },
+      { "answer": "a decline in foreign trade" },
+      { "answer": "deregulation of key transportation and defense industries" }
+    ]
+  },
+  {
+    "question": "Which of the following was true of a married woman in the colonial era?",
+    "published": true,
+    "Answers": [
+      { "answer": "She would be sentenced to debtors’ prison for debts incurred by her husband." },
+      { "answer": "She could vote as her husband’s proxy in elections." },
+      { "answer": "She generally lost control of her property when she married." },
+      { "answer": "She was the beneficiary by law of her husband’s estate." },
+      { "answer": "Her legal rights over her children were the same as those of her husband." }
+    ]
+  },
+  {
+    "question": "Which of the following colonies required each community of 50 or more families to provide a teacher of reading and writing?",
+    "published": true,
+    "Answers": [
+      { "answer": "Pennsylvania" },
+      { "answer": "Massachusetts" },
+      { "answer": "Virginia" },
+      { "answer": "Maryland" },
+      { "answer": "Rhode Island" }
+    ]
+  },
+  {
+    "question": "The area marked X on the map was part of",
+    "published": true,
+    "Answers": [
+      { "answer": "Massachusetts’ Western Reserve" },
+      { "answer": "the Northwest Territory" },
+      { "answer": "the Louisiana Purchase" },
+      { "answer": "the Mexican Cession" },
+      { "answer": "the Oregon Country" }
+    ]
+  },
+  {
+    "question": "In the early years of the textile industry in Lowell, Massachusetts, owners of the textile mills were best known for their",
+    "published": true,
+    "Answers": [
+      { "answer": "humanitarian refusal to hire women and children as factory operatives" },
+      { "answer": "brutal treatment of their workforces" },
+      { "answer": "idealistic efforts to avoid the worst evils of English industrialization" },
+      { "answer": "profit-motivated efforts to replicate the factory system of the English Industrial Revolution" },
+      { "answer": "pioneering efforts to establish labor unions" }
+    ]
+  },
+  {
+    "question": "At the beginning of the Civil War, Southerners expressed all of the following expectations EXCEPT:",
+    "published": true,
+    "Answers": [
+      { "answer": "The materialism of the North would prevent Northerners from fighting an idealistic war." },
+      { "answer": "Great Britain would intervene on the side of the South in order to preserve its source of cotton." },
+      { "answer": "Northern unity in the struggle against the Southern states would eventually break." },
+      { "answer": "The economic and military resources of the South would outlast those of the North." },
+      { "answer": "The justice of the South’s cause would prevail." }
+    ]
+  },
+  {
+    "question": "Which of the following constitutes a significant change in the treatment of American Indians during the last half of the nineteenth century?",
+    "published": true,
+    "Answers": [
+      { "answer": "The beginnings of negotiations with individual tribes" },
+      { "answer": "The start of a removal policy" },
+      { "answer": "The abandonment of the reservation system" },
+      { "answer": "The admission of all American Indians to the full rights of United States citizenship" },
+      { "answer": "The division of the tribal lands among individual members" }
+    ]
+  },
+  {
+    "question": "“This, then, is held to be the duty of the man of wealth: to consider all surplus revenues which come to him simply as trust funds, which he is called upon to administer and strictly bound as a matter of duty to administer in the manner which, in his judgment, is best calculated to produce the most beneficial results for the community—the man of wealth thus becoming the mere agent and trustee for his poorer brethren.’’ These sentiments are most characteristic of",
+    "published": true,
+    "Answers": [
+      { "answer": "transcendentalism" },
+      { "answer": "pragmatism" },
+      { "answer": "the Gospel of Wealth" },
+      { "answer": "the Social Gospel" },
+      { "answer": "Reform Darwinism" }
+    ]
+  },
+  {
+    "question": "Richard Nixon’s 1968 political comeback to win the presidency can be partly attributed to",
+    "published": true,
+    "Answers": [
+      { "answer": "dissension within the Democratic Party over Vietnam" },
+      { "answer": "the defection of Black voters to the Republican Party" },
+      { "answer": "Nixon’s cordial relations with the news media" },
+      { "answer": "Nixon’s great popularity as Eisenhower’s vice president" },
+      { "answer": "Nixon’s promise of immediate withdrawal of American forces from Vietnam" }
+    ]
+  }
+]
