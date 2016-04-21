@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import { Provider } from 'react-redux';
-import Admin from './components/admin';
+import Admin from './components/Admin';
 import configureStore from './stores/admin';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 

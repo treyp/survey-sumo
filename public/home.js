@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import { Provider } from 'react-redux';
-import Home from './components/home';
+import Home from './components/Home';
 import configureStore from './stores/home';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
